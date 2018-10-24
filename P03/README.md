@@ -1,4 +1,5 @@
-# P03 Find the K'th element of a list.
+# P03 リストの、N番目の要素を見つけよう。
+※リストの最初の要素を1番目とします。
 
 ### Example
 ```
