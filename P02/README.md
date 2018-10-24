@@ -1,4 +1,4 @@
-# P02 Find the last but one element of a list.
+# P02 リストの、最後から2番目の要素を見つけよう。
 
 ### Example
 ```
