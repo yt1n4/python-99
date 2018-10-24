@@ -1,4 +1,4 @@
-# P05 Reverse a list. 
+# P05 リストの要素を反転させよう。
 
 ### Example
 ```

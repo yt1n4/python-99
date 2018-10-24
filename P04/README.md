@@ -1,4 +1,4 @@
-# P04 Find the number of elements of a list.
+# P04 リストの要素数を求めよう。
 
 ### Example
 ```
